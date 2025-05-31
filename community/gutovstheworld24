@@ -1,0 +1,19 @@
+git clone https://github.com/gutovstheworld/dio-lab-open-source.git
+cd dio-lab-open-source
+
+# 👋 Olá, sou gutovstheworld!
+
+Sou entusiasta de tecnologia, apaixonado por aprender e contribuir com projetos Open Source. 🚀
+
+## 🌱 Atualmente estou aprendendo:
+- Git e GitHub
+- Desenvolvimento Web
+- Python
+
+## 📫 Como me encontrar:
+- GitHub: https://github.com/gutovstheworld
+- LinkedIn: https://linkedin.com/in/augustomnavarro
+
+git add .
+git commit -m "feat: adiciona meu profile README"
+git push origin main
